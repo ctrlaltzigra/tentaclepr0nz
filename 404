@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>you're not lost per se...</title>
+<style>
+
+nav   {
+width:30%;
+}
+nav2  {
+width:30%;
+}
+article {
+width:40%;
+}
+</style>
+</head>
+<nav>
+hello.
+</nav>
+
+</html>
