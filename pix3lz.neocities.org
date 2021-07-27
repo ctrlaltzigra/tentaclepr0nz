@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>camelCase</title>
+<style>
+
+/*first big kid lyt*/
+/* thanksforlookingatthesourcecode*/
+/* email me @ zigra@protonmail.com */
+
+
+
+body	{
+  background-color:black;
+    background-image:url("https://i.pinimg.com/originals/9d/c8/18/9dc818f82dbd7aec7cd8c567c9e6587f.gif");
+
+
+}
+
+header  {
+  margin-top:0px;
+  height:10px;
+  opacity:100%;
+  background-image:url("https://i.pinimg.com/originals/9d/c8/18/9dc818f82dbd7aec7cd8c567c9e6587f.gif");
+
+}
+
+h1  {
+  color:white;
+  background-color:#ff00ff;
+  text-align:center;
+  opacity:100%;
+  
+}
+
+h2  {
+  color:#ff0099;
+}
+
+nav	{
+   float:left;
+   text-align:center;
+   padding-right:0;
+   padding-left:0;
+   font-family:monospace;
+   background-image:url("https://i.pinimg.com/originals/9d/c8/18/9dc818f82dbd7aec7cd8c567c9e6587f.gif");
+   background-repeat: repeat-y;
+   color:#80dfff;
+   width: 30%;
+   height: 500px;
+   bottom:0px;
+
+
+}
+
+nav2  {
+   float: right;
+   font-family:monospace;
+   padding-left:0;
+   padding-right:0;
+   background-color:#80dfff;
+   background-image:url("https://i.pinimg.com/originals/9d/c8/18/9dc818f82dbd7aec7cd8c567c9e6587f.gif");
+   background-repeat: repeat-y;
+   color:#80dfff;
+   width:30%;
+   height:500px;
+   bottom:0px;
+
+}
+
+article	{
+  float: left;
+  margin:auto;
+  padding-right: 0;
+  font-family:monospace;
+  background-color:#000000;
+  color:#ff00ff;
+  width: 40%;
+  border: black solid 5px;
+  border-radius: 15px;
+
+}
+
+h3  {
+  background-color: black;
+  color: #ff00ff;
+}
+ p  {
+   padding-top: 10px;
+   padding-bottom: 0;
+   padding-left: 10px;
+   padding-right:10px;
+ }
+
+</style>
+</head>
+<body>
+<header>
+</header>
+<nav>
+</nav>
+<article>
+<h1> click <a href="blogpg3.html" target="_blank" alt="blog">here</a> for my blog. </h1><br>
+
+
+<center>
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" float="top" alt="hacker picture gif">
+<BR><font size="4"><p>Hi! I am known as <b><i>________</i></b> on the web.<BR>
+My personality type is INTJ-T. I enjoy reading, coffee, and coding.</p><br>
+<a href="https://www.keen.com/calls/PT_interimchat.asp?sid=12463454"><img border=0 src="https://www.keen.com/calls/chatimage.asp?sid=12463454&ImageType=1"> </a>
+<BR><BR>
+
+ <script src="https://tryhackme.com/badge/479238"></script>
+ 
+</font>
+
+</article>
+
+
+<nav2>
+
+</nav2>
+
+
+</body>
+</html>
